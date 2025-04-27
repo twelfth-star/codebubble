@@ -213,4 +213,3 @@ for r in results:
    - **Run**: execute inside the sandbox, capturing `stdout`/`stderr`.
    - **Collect**: parse metrics via `parse_time_output()` into a `TimeResult` object.
    - **Aggregate**: build `ExecutionResult` with status, outputs, timings, and metrics.
-
